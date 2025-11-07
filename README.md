@@ -1,4 +1,5 @@
 # Superstore-Sales-Performance-Analysis
+link-https://app.powerbi.com/view?r=eyJrIjoiNjQ5Nzk3MzAtNWU2ZC00OTJiLWIxYTQtZjdkNjZmNzY1YTllIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D
 
  Features & Analysis
 Executive KPIs: At-a-glance metrics for Total Sales , Total Profit , Total Quantity , and Returns .
